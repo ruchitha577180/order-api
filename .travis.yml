@@ -5,5 +5,3 @@ sudo: required
 services:
   - docker
   - mongodb
-script:
-  - npm run test
